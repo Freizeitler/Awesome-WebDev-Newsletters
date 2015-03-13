@@ -70,5 +70,5 @@ UserTesting news, tips, and webinar invitations delivered to your inbox each wee
 
 __Subscribe here:__ [http://www.usertesting.com/blog/](http://www.usertesting.com/blog/)
 
-
+### That's it for now...
 ![Awesome? Awesome!](https://dl.dropboxusercontent.com/u/13322055/stuff/dr-mccoy-and-captain-kirk-approve.gif)
