@@ -1,6 +1,6 @@
 # Awesome WebDev Newsletters
 
-Yep, I'm oldschool. It's me who is still subscribing to newsletters. Here are my favorites for Web/Frontend Development. 
+Yep, I'm oldschool. It's me who is still subscribing to newsletters. Here are my favorites for Web/Frontend Development and alike. 
 
 
 
@@ -69,6 +69,7 @@ __Subscribe here:__ [http://googlewebmastercentral.blogspot.de/](http://googlewe
 UserTesting news, tips, and webinar invitations delivered to your inbox each week.
 
 __Subscribe here:__ [http://www.usertesting.com/blog/](http://www.usertesting.com/blog/)
+
 
 ### That's it for now...
 ![Awesome? Awesome!](https://dl.dropboxusercontent.com/u/13322055/stuff/dr-mccoy-and-captain-kirk-approve.gif)
