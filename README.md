@@ -29,6 +29,11 @@ Versioning is a daily email packed with the latest web development news, so you 
 
 __Subscribe here:__ [http://www.sitepoint.com/versioning/](http://www.sitepoint.com/versioning/)
 
+## Web Animation Weekly
+A hand-picked selection of articles, videos, book reviews, and other goodies pertaining to the wonderful worlds of web animation and motion design! Curated by [Rachel Nabors](http://rachelnabors.com/). 
+
+__Subscribe here:__ [http://sassnews.us7.list-manage.com/subscribe?u=b4a4054cce715a3b0ae5e7d35&id=f7c505323d](http://sassnews.us7.list-manage.com/subscribe?u=b4a4054cce715a3b0ae5e7d35&id=f7c505323d)
+
 
 ## Sass News
 A set of the weeks finest blogposts, articles, codepens and examples using Sass straight to your inbox. Made with love by [Stu Robson](http://www.alwaystwisted.com/).
@@ -43,10 +48,21 @@ __Subscribe here:__ [http://sassnews.us7.list-manage.com/subscribe?u=b4a4054cce7
 
 __Subscribe here:__ [http://css-weekly.com/](http://css-weekly.com/)
 
+## O’Reilly Programming Newsletter
+Receive weekly Programming news and insights from industry insiders.
+
+__Subscribe here:__ [http://www.oreilly.com/programming/newsletter.csp](http://www.oreilly.com/programming/newsletter.csp)
+
 ## Learning jQuery
 Tips, techniques, and tutorials for the jQuery JavaScript library.
 
 __Subscribe here:__ [http://www.learningjquery.com/](http://www.learningjquery.com/)
+
+
+## Google Webmaster Central Blog
+Official news on crawling and indexing sites for the Google index.
+
+__Subscribe here:__ [http://googlewebmastercentral.blogspot.de/](http://googlewebmastercentral.blogspot.de/)
 
 
 ## UserTesting
