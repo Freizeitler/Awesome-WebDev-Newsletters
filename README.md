@@ -19,3 +19,12 @@ __Subscribe here:__ [http://webtoolsweekly.com/](http://webtoolsweekly.com/)
 This Newsletter shares the latest articles in web development. It is a filtered and handcrafted list of links by [Anselm Hannemann](https://twitter.com/helloanselm). Usually a new episode comes every week. 
 
 __Subscribe here:__ [http://tinyletter.com/wdrl](http://tinyletter.com/wdrl)
+
+## Versioning by Sitepoint
+As a modern web developer you’re expected to stay bleeding-edge while somehow finding time to, you know, develop things.
+
+Why spend your days with one eye on your Twitter feed, another on Hacker News, and another (you have three eyes in this metaphor) on Reddit? Close the tabs, get back to building what you love, and let us keep you updated, with Versioning.
+
+Versioning is a daily email packed with the latest web development news, so you can get on with your day confident you’re not being left behind. We skip the filler and bring you the good stuff, in a handy digest form.
+
+__Subscribe here:__ [http://www.sitepoint.com/versioning/](http://www.sitepoint.com/versioning/)
