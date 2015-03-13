@@ -35,6 +35,19 @@ A set of the weeks finest blogposts, articles, codepens and examples using Sass 
 
 __Subscribe here:__ [http://sassnews.us7.list-manage.com/subscribe?u=b4a4054cce715a3b0ae5e7d35&id=f7c505323d](http://sassnews.us7.list-manage.com/subscribe?u=b4a4054cce715a3b0ae5e7d35&id=f7c505323d)
 
+## CSS Weekly
+- weekly e-mail
+- roundup of css articles, 
+- tutorials, experiments and tools
+- curated by [Zoran Jambor](https://twitter.com/ZoranJambor)
+
+__Subscribe here:__ [http://css-weekly.com/](http://css-weekly.com/)
+
+## Learning jQuery
+Tips, techniques, and tutorials for the jQuery JavaScript library.
+
+__Subscribe here:__ [http://www.learningjquery.com/](http://www.learningjquery.com/)
+
 
 ## UserTesting
 UserTesting news, tips, and webinar invitations delivered to your inbox each week.
