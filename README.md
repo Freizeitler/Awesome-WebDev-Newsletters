@@ -1,6 +1,6 @@
 # Awesome WebDev Newsletters
 
-Yep, I'm oldschool. It's me who is still subscribing to newsletters. Here are my favorites for Web/Frontend Development and alike. 
+Yep, I'm oldschool. It's me who is still subscribing to newsletters. Here are my favorites for Web/Frontend Development and related stuff. 
 
 
 
