@@ -48,10 +48,10 @@ __Subscribe here:__ [http://sassnews.us7.list-manage.com/subscribe?u=b4a4054cce7
 
 __Subscribe here:__ [http://css-weekly.com/](http://css-weekly.com/)
 
-## O’Reilly Programming Newsletter
-Receive weekly Programming news and insights from industry insiders.
+## O’Reilly Web Ops and Performance Newsletter
+Receive weekly Web Ops and Performance news and insights from industry insiders.
 
-__Subscribe here:__ [http://www.oreilly.com/programming/newsletter.csp](http://www.oreilly.com/programming/newsletter.csp)
+__Subscribe here:__ [http://www.oreilly.com/webops-perf/newsletter.html](http://www.oreilly.com/webops-perf/newsletter.html)
 
 ## Learning jQuery
 Tips, techniques, and tutorials for the jQuery JavaScript library.
